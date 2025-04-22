@@ -40,7 +40,15 @@ This section present the key findings derived from the interactive dashboard.
 ### Dashboard Preview
 <img width="576" alt="Screenshot 2025-04-22 172733" src="https://github.com/user-attachments/assets/97263c6b-d7bb-470f-b845-8d59b2aaa2cc" />
 
-**Total FLIG_MNT_TOTAL by explication : Contract logiciel (softwarwe contracts) generated the highest revenue(7M) i.e there are the biggest driver of business while the lowest revenue is generated from  Ventes hors contract (sales  outside contract) 
+1.Total FLIG_MNT_TOTAL by explication : Contract logiciel (softwarwe contracts) generated the highest revenue(7M) i.e there are the biggest driver of business while the lowest revenue is generated from  Ventes hors contract (sales  outside contract) 
 <img width="571" alt="Screenshot 2025-04-22 174051" src="https://github.com/user-attachments/assets/d0530d94-81f5-4896-892e-396d2e638b11" />
 
+2.Total FLIG_MNT_TOTAL by FLIG_type_contrat:  FLIG_type_contrat 3 dominated with the highest revenue of 7M while  FLIG_type_contrat 78 generated the lowest revenue
+<img width="539" alt="Screenshot 2025-04-22 180620" src="https://github.com/user-attachments/assets/d0bdad83-8a6a-44e2-aed0-5b7385b824d5" />
+
+3.Total FLIG_MNT_TOTAL by FLIG_PERIODE_DEBUT Month: There's a high rervenue peak in Jannuary in the start date of the invoice period
+<img width="551" alt="Screenshot 2025-04-22 183600" src="https://github.com/user-attachments/assets/2ff19f82-ec81-49fa-9eac-26d7336949cc" />
+
+Total FLIG_MNT_TOTAL by FLIG_PERIODE_FIN Month: There's a high rervenue peak in December in the End date of the invoice period
+<img width="538" alt="Screenshot 2025-04-22 184751" src="https://github.com/user-attachments/assets/bfb6610a-9458-4ebb-95d9-16683d7bcd27" />
 
