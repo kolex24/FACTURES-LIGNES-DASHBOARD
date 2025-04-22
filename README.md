@@ -40,4 +40,7 @@ This section present the key findings derived from the interactive dashboard.
 ### Dashboard Preview
 <img width="576" alt="Screenshot 2025-04-22 172733" src="https://github.com/user-attachments/assets/97263c6b-d7bb-470f-b845-8d59b2aaa2cc" />
 
+**Total FLIG_MNT_TOTAL by explication : Contract logiciel (softwarwe contracts) generated the highest revenue(7M) i.e there are the biggest driver of business while the lowest revenue is generated from  Ventes hors contract (sales  outside contract) 
+<img width="571" alt="Screenshot 2025-04-22 174051" src="https://github.com/user-attachments/assets/d0530d94-81f5-4896-892e-396d2e638b11" />
+
 
