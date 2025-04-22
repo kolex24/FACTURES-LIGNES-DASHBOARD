@@ -38,5 +38,6 @@ To ensure data reliability and data integrity of the dataset the following step 
 ## Analysis  and Visualization
 This section present the key findings derived from the interactive dashboard.
 ### Dashboard Preview
-![Dashboard Screenshot](images/factures lignes dashboard.png)
----
+![Dashboard Screenshot](<img width="576" alt="Screenshot 2025-04-22 172733" src="https://github.com/user-attachments/assets/5bf3dc9d-f4c5-44b1-b3dc-423351710a37" />
+)
+
