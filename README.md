@@ -52,7 +52,10 @@ This section present the key findings derived from the interactive dashboard.
 4.Total FLIG_MNT_TOTAL by FLIG_PERIODE_FIN Month: There's a high rervenue peak in December in the End date of the invoice period
 <img width="538" alt="Screenshot 2025-04-22 184751" src="https://github.com/user-attachments/assets/bfb6610a-9458-4ebb-95d9-16683d7bcd27" />
 
-5.Total FLIG_MNT_TOTAL by Top 10  FLIG_code_product:Top product contibuting to the revenue ASSLOGWPCLIENT(1,88m), MAJBAS (1.24M), INTEGRALEPR (858K) ,HILINTEGRALE (593k), PROTECT (488k),  CTMSREVEUR (488K),  ASSLOGSERV (415K), PAX-48MOIS (372K), ASSLOGSCAN (359K), ASSLOGSTOCK(324K)
+5.Total FLIG_MNT_TOTAL by Top 10  FLIG_code_product:Top Clients contibuting to the revenue ASSLOGWPCLIENT(1,88m), MAJBAS (1.24M), INTEGRALEPR (858K) ,HILINTEGRALE (593k), PROTECT (488k),  CTMSREVEUR (488K),  ASSLOGSERV (415K), PAX-48MOIS (372K), ASSLOGSCAN (359K), ASSLOGSTOCK(324K)
 <img width="571" alt="Screenshot 2025-04-22 192406" src="https://github.com/user-attachments/assets/1b4dc1b0-79d2-4225-ad47-e310f492c06c" />
 
-##RECOMENDATION
+## RECOMENDATION
+1.Since Contract logiciel (softwarwe contracts) generate the huighest revenue Stakeholder should focus marketing and retenttion effort on Contract logiciel. Stakeholder should explore upsell opportunities within the product line.
+
+2.Priotize Clients like (ASSLOGWPCLIENT, MAJBAS) with loyalty, alos analyze what make them top performace and try to replicate that to the other clients
