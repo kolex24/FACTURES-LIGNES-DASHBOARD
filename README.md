@@ -36,4 +36,7 @@ To ensure data reliability and data integrity of the dataset the following step 
 5.**Merged Tables**: Combined supplementary company and product metadata into the main table.
 
 ## Analysis  and Visualization
-This section present the key findings and visual insight 
+This section present the key findings derived from the interactive dashboard.
+### Dashboard Preview
+![Dashboard Screenshot](images/factures lignes dashboard.png)
+---
